@@ -1,7 +1,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/c71100fdac9e4403d37d/maintainability)](https://codeclimate.com/github/DrKimpatrick/frontend-task/maintainability) [![BCH compliance](https://bettercodehub.com/edge/badge/DrKimpatrick/frontend-task?branch=develop)](https://bettercodehub.com/)
 
 #### Demo
-https://hackerbay-frontend.netlify.com/
+http://localhost:3000/
 
 #### You need to build this game in ReactJS.
 
